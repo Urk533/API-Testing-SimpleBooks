@@ -30,11 +30,11 @@ To perform API testing using Postman for the Simple Books API.
 - API Test Cases
 - Screenshots
 
-## 👤 Author
-Utsav Raj Kharel
-
 ## 🚀 Execution
 APIs were tested using Postman Collection Runner with automated test scripts.
+
+## 👤 Author
+Utsav Raj Kharel
 
 ## 📌 Conclusion
 All APIs were tested successfully with both positive and negative scenarios.
